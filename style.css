@@ -1,0 +1,8 @@
+.selected-card {
+    border: 3px solid #28a745;
+    box-shadow: 0 0 10px rgba(40, 167, 69, 0.5);
+}
+.category-item:hover {
+    cursor: pointer;
+    background-color: #f8f9fa;
+}
