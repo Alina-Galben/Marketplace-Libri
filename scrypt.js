@@ -86,7 +86,7 @@ function filterByCategory(category) {
     renderBooks(filteredBooks);
 }
 
-// 8. Aggiunge un òibro al carello e aggiorna il conteggio. Evidenzia la card del libro selezionato. Chiama updateCart() per aggiornare la lista del carello.
+// 8. Aggiunge un libro al carello e aggiorna il conteggio. Evidenzia la card del libro selezionato. Chiama updateCart() per aggiornare la lista del carello.
 function addToCart(asin, title, price) {
     cart.push({ asin, title, price });
     document.getElementById(asin).classList.add("selected-card");
