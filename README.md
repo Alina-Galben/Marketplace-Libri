@@ -2,6 +2,8 @@
 
 Una mini‑webapp front‑end che mostra un marketplace di libri: pagina elenco con i libri e pagina dettaglio per il singolo prodotto. Progetto realizzato con HTML, CSS e JavaScript vanilla, focalizzato su struttura pulita, styling semplice e logica chiara.
 
+Guarda il sito live qui: [https://market-place-libri-alina.netlify.app/](https://market-place-libri-alina.netlify.app/)
+
 ---
 ### 📚 Home Page   
 ![Homepage](./public/marketPlaceLibri.png) 
